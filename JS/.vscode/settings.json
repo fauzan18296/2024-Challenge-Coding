@@ -1,10 +1,11 @@
 {
   "window.zoomLevel": 0.4,
-  "workbench.colorTheme": "Mayukai Reversal",
+  "workbench.colorTheme": "One Dark Pro Mix",
   "editor.fontSize": 21,
   "editor.fontFamily":  "Hack Nerd Font",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.autoClosingBrackets": "always",
   "editor.formatOnSaveMode": "file",
-  "editor.suggest.showSnippets": true
+  "editor.suggest.showSnippets": true,
+  "javascript.suggest.completeJSDocs": true
 }
