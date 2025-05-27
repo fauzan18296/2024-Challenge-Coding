@@ -1,6 +1,6 @@
 {
   "window.zoomLevel": 0.4,
-  "workbench.colorTheme": "Dracula Theme Soft",
+  "workbench.colorTheme": "Cobalt2",
   "editor.fontSize": 21,
   "editor.fontFamily":  "Hack Nerd Font",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
