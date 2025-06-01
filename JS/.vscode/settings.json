@@ -1,6 +1,6 @@
 {
   "window.zoomLevel": 0.4,
-  "workbench.colorTheme": "GitHub Dark Dimmed",
+  "workbench.colorTheme": "GitHub Dark Colorblind (Beta)",
   "editor.fontSize": 21,
   "editor.fontFamily":  "Hack Nerd Font",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
