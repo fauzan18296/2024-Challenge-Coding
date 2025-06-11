@@ -1,8 +1,8 @@
 {
   "window.zoomLevel": 0.4,
-  "workbench.colorTheme": "Mayukai Semantic Mirage",
+  "workbench.colorTheme": "One Dark Pro Night Flat",
   "editor.fontSize": 21,
-  "editor.fontFamily":  "Hack Nerd Font",
+  "editor.fontFamily":  "Source Code Pro",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
   "editor.autoClosingBrackets": "always",
   "editor.formatOnSaveMode": "file",
