@@ -1,6 +1,6 @@
 {
-  "window.zoomLevel": 0.4,
-  "workbench.colorTheme": "Mosaic",
+  "window.zoomLevel": 0.2,
+  "workbench.colorTheme": "One Dark Pro Mix",
   "editor.fontSize": 21,
   "editor.fontFamily":  "Source Code Pro",
   "editor.defaultFormatter": "esbenp.prettier-vscode",
